@@ -10,17 +10,16 @@ A high-fidelity predictive analytics dashboard that identifies subscription acco
 
 To showcase the dashboard interfaces in your GitHub repository, replace the placeholder paths below with your actual screenshots:
 
-### 1. Main Dashboard & Fleet Metrics
-![Main Dashboard Overview](screenshots/dashboard_overview.png)
-*Fleet metrics overview showing Active subscriber logs, Mean Churn Risk, Service Friction Rates, and cool-down indicators.*
+### 1. 
+![SS-1](https://github.com/sanika3020/CustomerChurnPrediction/blob/main/CCP-1.png)
 
-### 2. Interactive What-If Simulator
-![What-If Simulator Panel](screenshots/what_if_simulator.png)
-*Interactive mutator enabling you to dynamically adjust usage trends, support ticket volume, satisfaction rating, and login abandonment triggers with real-time risk recalculations.*
+### 2. 
+![SS-2](https://github.com/sanika3020/CustomerChurnPrediction/blob/main/CCP-2.png)
 
-### 3. Account Strategy Desk
-![Strategy Desk Details](screenshots/strategy_desk.png)
-*Detailed technical assessments, structured account health reviews, customized outreach email templates, and team checklists.*
+
+### 3. 
+![SS-3](https://github.com/sanika3020/CustomerChurnPrediction/blob/main/CCP-3.png)
+
 
 ---
 
