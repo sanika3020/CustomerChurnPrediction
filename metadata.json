@@ -1,0 +1,6 @@
+{
+  "name": "Customer Churn Predictor",
+  "description": "Predictive analytics dashboard that identifies subscription accounts at risk, runs what-if simulations, and generates personalized customer retention plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
